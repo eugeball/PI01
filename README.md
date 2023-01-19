@@ -67,4 +67,4 @@ https://rmwpeq.deta.dev/get_second_score/amazon
 
 https://rmwpeq.deta.dev/get_longest/netflix/min/2016
 
-https://rmwpeq.deta.dev//get_rating_count/18+
+https://rmwpeq.deta.dev/get_rating_count/18+    
