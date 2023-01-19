@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deta
+python-multipart
+pandas
+numpy
+limpieza
+requests
